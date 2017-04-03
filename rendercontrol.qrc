@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rendercontrol">
+        <file>demo.qml</file>
+		<file>Kostal-ICU.png</file>
+    </qresource>
+</RCC>
