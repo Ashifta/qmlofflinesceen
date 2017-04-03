@@ -57,7 +57,7 @@ Rectangle {
     height: 1920
     Image {
         id: image
-        source: "qrc:/rendercontrol/Kostal-ICU.png"
+        source: "qrc:/rendercontrol/SampleImage.png"
     }
 
     Text {
